@@ -6,7 +6,7 @@
 
 O LBFB é um site com o proposito de divulgar a arte de jogar futebol de botão, temos uma área de cadastro para clubes em nossa primeira versão, temos um roadmap planejado para criar uma área de login e em seguida criarmos um microserviço de tabelas e campeonatos.
 
-O front-end da aplicação pode ser encontrado no seguinte repositório: [https://github.com/fernandopredes/ShipStockSentry-front](https://github.com/fernandopredes/ShipStockSentry-front)
+O front-end da aplicação pode ser encontrado no seguinte repositório: [https://github.com/AlanAmaralCosta/lbfb-front-end](https://github.com/AlanAmaralCosta/lbfb-front-end)
 
 ## Funcionalidades 🤖
 
